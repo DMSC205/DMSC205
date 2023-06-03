@@ -156,7 +156,7 @@ nav img{
     width: 80%;
     height: 80%;
     text-align: left;
-    margin: auto; /*-76px 280px*/
+    margin: -80px 280p; /*-76px 280px*/
     padding-top: 80px;
     padding-bottom: 50px;
  }
